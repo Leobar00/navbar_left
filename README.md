@@ -2,3 +2,4 @@
 
 Create a custom navbar with HTML/CSS/JAVASCRIPT
 
+![](navbar.gif)
